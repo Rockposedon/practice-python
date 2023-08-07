@@ -12,7 +12,7 @@ your skills, this repository is designed to provide you with hands-on practice a
    - 2.2 [Strings](#strings)
    - 2.3 [Booleans](#booleans)
 3. [Data Structures](#data-structures)
-   - 3.1 [Lists](#lists)
+   - 3.1 [Lists](https://github.com/Rockposedon/practice-python/blob/main/list.py)
    - 3.2 [Tuples](#tuples)
    - 3.3 [Sets](#sets)
    - 3.4 [Dictionaries](#dictionaries)
