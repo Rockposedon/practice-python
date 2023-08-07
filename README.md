@@ -118,16 +118,6 @@ Modules help you organize your code and make it more modular.
 Explore the concept of Python packages, which allow you to organize related modules into a directory hierarchy. 
 Packages help you manage larger projects and maintain code separation.
 
-## Faker Module
-
-Discover the `Faker` module, a powerful tool for generating fake data for testing and development purposes. Learn how 
-to create realistic-looking fake data, from names and addresses to dates and text.
-
-## Pandas
-
-Dive into the `pandas` library, a popular data manipulation and analysis tool in Python. Learn how to create and 
-manipulate data frames and more.
-
 ## Getting Started
 
 To start exploring the code examples, simply navigate to the respective folders for each topic and browse through 
