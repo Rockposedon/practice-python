@@ -26,12 +26,10 @@ your skills, this repository is designed to provide you with hands-on practice a
    - 5.3 [Generators](#generators)
 6. [Python Modules](#python-modules)
 7. [Python Packages](#python-packages)
-8. [Faker Module](#faker-module)
-9. [Pandas](#pandas)
-10. [Getting Started](#getting-started)
-11. [Dependencies](#dependencies)
-12. [Contributions](#contributions)
-13. [License](#license)
+8. [Getting Started](#getting-started)
+9. [Dependencies](#dependencies)
+10. [Contributions](#contributions)
+11. [License](#license)
 
 ## Introduction
 
@@ -64,7 +62,7 @@ iterate through lists.
 
 ### Tuples
 
-Tuples are similar to lists, but with immutability. This section will cover how to create and use tuples effectively.
+Tuples are similar to lists but with immutability. This section will cover how to create and use tuples effectively.
 
 ### Sets
 
