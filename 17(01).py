@@ -1,3 +1,7 @@
+''' problem statement
+    The entered year is a leap year or not?
+'''
+
 # First approach to determine if a year is a leap year or not
 n = int(input("Enter a year: "))  # Prompt the user to input a year
 
