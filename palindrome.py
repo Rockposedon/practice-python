@@ -1,10 +1,11 @@
-# name = input("enter string")
-# if name == name[::-1]:
-# 	print(name ,"is palindrome")
-# else :
-#  	print(name ,"is not palindrome")
+'''
+	check the given string is palindrome or not 
+'''
+# Get input from the user
+name = input("Enter a string: ")
 
-name1 = "paro"
-for i in name1:
-	print(name1[:1])
-	name1[i] = name1[-i]
+# Check if the input string is the same as its reverse
+if name == name[::-1]:
+    print(name, "is a palindrome.")
+else:
+    print(name, "is not a palindrome.")
