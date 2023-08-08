@@ -1,3 +1,6 @@
+'''
+      Python list CRUD operation
+'''
 l1 = ['paritosh','mca','paritoshrock@gmail.com']
 print(l1[0])
 
