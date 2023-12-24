@@ -8,3 +8,8 @@ def take_choice():
         print("invalid choice ")
         take_choice()
 
+
+user_choice = take_choice()
+
+# Print the user's choice
+print("User's choice:", user_choice)
