@@ -1,3 +1,0 @@
-t1 = (25,23,10,25.5,'Stars War')
-t2 = tuple(5,23,10,25.5,'Stars War')
-print(t1)
